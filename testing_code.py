@@ -1,1 +1,1 @@
-print('i am not hungry at all')
+print('i am not hungry')
